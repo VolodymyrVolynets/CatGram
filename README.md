@@ -1,10 +1,7 @@
 
 # CatGram
 
-App where you can watch on cats picture unlimited time.
-Makes HTTP request on open API using Combine Framework and gets a random cats image. When one image was seen by user download one more. Save already downloaded images in cache.
+An application created for familiarization with Combine framework, practice of HTTP requests, HTTP responce data processing, display it graphical and practice of saving files in the internal memory of the device using FileManager
 
+https://user-images.githubusercontent.com/81035911/193669919-541d73d9-022d-48f1-8563-8ad2f070d1d3.mp4
 
-
-[Imgur](https://imgur.com/lvmaXBC)
-<img src="https://i.imgur.com/lvmaXBC.gif" height="320px"/>
